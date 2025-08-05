@@ -1,3 +1,2 @@
 node:22-alpine
 node:22.12-alpine
-node
