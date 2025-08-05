@@ -1,2 +1,2 @@
-node:22-alpine
-node:22.12-alpine
+--platform=linux/arm64 node:22-alpine
+--platform=linux/arm64 node:22.12-alpine
